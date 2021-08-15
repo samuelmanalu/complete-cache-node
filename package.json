@@ -1,0 +1,27 @@
+{
+  "name": "complete-cache",
+  "version": "1.0.0",
+  "description": "A set of simple yet fast caching algorithm",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmanalu/complete-cache-node.git"
+  },
+  "keywords": [
+    "cache"
+  ],
+  "author": "Samuel Manalu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelmanalu/complete-cache-node/issues"
+  },
+  "homepage": "https://github.com/samuelmanalu/complete-cache-node#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
